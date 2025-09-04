@@ -1,4 +1,4 @@
-# Excel VBA Server
+# Excel VBA MCP
 
 An MCP (Model Context Protocol) server that enables running VBA macros in Excel workbooks using xlwings.
 
